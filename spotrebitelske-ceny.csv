@@ -1,26 +1,26 @@
 rok,produkt,cena
-2000,světlé pivo lahvové (0.5L),7.61
-2001,světlé pivo lahvové (0.5L),7.79
-2002,světlé pivo lahvové (0.5L),8.41
-2003,světlé pivo lahvové (0.5L),8.60
-2004,světlé pivo lahvové (0.5L),8.48
-2005,světlé pivo lahvové (0.5L),8.41
-2006,světlé pivo lahvové (0.5L),8.32
-2007,světlé pivo lahvové (0.5L),8.74
-2008,světlé pivo lahvové (0.5L),9.13
-2009,světlé pivo lahvové (0.5L),9.10
-2010,světlé pivo lahvové (0.5L),10.05
-2011,světlé pivo lahvové (0.5L),9.78
-2012,světlé pivo lahvové (0.5L),10.44
-2013,světlé pivo lahvové (0.5L),10.56
-2014,světlé pivo lahvové (0.5L),10.43
-2015,světlé pivo lahvové (0.5L),10.51
-2016,světlé pivo lahvové (0.5L),11.39
-2017,světlé pivo lahvové (0.5L),11.57
-2018,světlé pivo lahvové (0.5L),11.85
-2019,světlé pivo lahvové (0.5L),12.02
-2020,světlé pivo lahvové (0.5L),11.53
-2021,světlé pivo lahvové (0.5L),10.93
+2000,světlé pivo lahvové (0.5 L),7.61
+2001,světlé pivo lahvové (0.5 L),7.79
+2002,světlé pivo lahvové (0.5 L),8.41
+2003,světlé pivo lahvové (0.5 L),8.60
+2004,světlé pivo lahvové (0.5 L),8.48
+2005,světlé pivo lahvové (0.5 L),8.41
+2006,světlé pivo lahvové (0.5 L),8.32
+2007,světlé pivo lahvové (0.5 L),8.74
+2008,světlé pivo lahvové (0.5 L),9.13
+2009,světlé pivo lahvové (0.5 L),9.10
+2010,světlé pivo lahvové (0.5 L),10.05
+2011,světlé pivo lahvové (0.5 L),9.78
+2012,světlé pivo lahvové (0.5 L),10.44
+2013,světlé pivo lahvové (0.5 L),10.56
+2014,světlé pivo lahvové (0.5 L),10.43
+2015,světlé pivo lahvové (0.5 L),10.51
+2016,světlé pivo lahvové (0.5 L),11.39
+2017,světlé pivo lahvové (0.5 L),11.57
+2018,světlé pivo lahvové (0.5 L),11.85
+2019,světlé pivo lahvové (0.5 L),12.02
+2020,světlé pivo lahvové (0.5 L),11.53
+2021,světlé pivo lahvové (0.5 L),10.93
 2000,marlboro (1 krabička),49.96
 2001,marlboro (1 krabička),52.39
 2002,marlboro (1 krabička),53.00
@@ -43,47 +43,47 @@ rok,produkt,cena
 2019,marlboro (1 krabička),106.00
 2020,marlboro (1 krabička),121.90
 2021,marlboro (1 krabička),134.00
-2000,benzin natural 95 (1L),28.90
-2001,benzin natural 95 (1L),24.44
-2002,benzin natural 95 (1L),24.67
-2003,benzin natural 95 (1L),24.13
-2004,benzin natural 95 (1L),25.87
-2005,benzin natural 95 (1L),28.46
-2006,benzin natural 95 (1L),27.76
-2007,benzin natural 95 (1L),31.01
-2008,benzin natural 95 (1L),23.85
-2009,benzin natural 95 (1L),28.44
-2010,benzin natural 95 (1L),32.88
-2011,benzin natural 95 (1L),34.95
-2012,benzin natural 95 (1L),35.11
-2013,benzin natural 95 (1L),36.16
-2014,benzin natural 95 (1L),33.93
-2015,benzin natural 95 (1L),29.00
-2016,benzin natural 95 (1L),30.00
-2017,benzin natural 95 (1L),30.45
-2018,benzin natural 95 (1L),31.80
-2019,benzin natural 95 (1L),31.76
-2020,benzin natural 95 (1L),27.93
-2021,benzin natural 95 (1L),36.33
-2000,nafta (1L),26.67
-2001,nafta (1L),21.89
-2002,nafta (1L),21.55
-2003,nafta (1L),21.10
-2004,nafta (1L),25.73
-2005,nafta (1L),28.20
-2006,nafta (1L),27.87
-2007,nafta (1L),32.03
-2008,nafta (1L),26.07
-2009,nafta (1L),26.96
-2010,nafta (1L),32.01
-2011,nafta (1L),35.58
-2012,nafta (1L),35.82
-2013,nafta (1L),36.49
-2014,nafta (1L),34.41
-2015,nafta (1L),28.71
-2016,nafta (1L),29.40
-2017,nafta (1L),29.69
-2018,nafta (1L),32.45
-2019,nafta (1L),31.63
-2020,nafta (1L),27.53
-2021,nafta (1L),35.38
+2000,benzin natural 95 (1 L),28.90
+2001,benzin natural 95 (1 L),24.44
+2002,benzin natural 95 (1 L),24.67
+2003,benzin natural 95 (1 L),24.13
+2004,benzin natural 95 (1 L),25.87
+2005,benzin natural 95 (1 L),28.46
+2006,benzin natural 95 (1 L),27.76
+2007,benzin natural 95 (1 L),31.01
+2008,benzin natural 95 (1 L),23.85
+2009,benzin natural 95 (1 L),28.44
+2010,benzin natural 95 (1 L),32.88
+2011,benzin natural 95 (1 L),34.95
+2012,benzin natural 95 (1 L),35.11
+2013,benzin natural 95 (1 L),36.16
+2014,benzin natural 95 (1 L),33.93
+2015,benzin natural 95 (1 L),29.00
+2016,benzin natural 95 (1 L),30.00
+2017,benzin natural 95 (1 L),30.45
+2018,benzin natural 95 (1 L),31.80
+2019,benzin natural 95 (1 L),31.76
+2020,benzin natural 95 (1 L),27.93
+2021,benzin natural 95 (1 L),36.33
+2000,nafta (1 L),26.67
+2001,nafta (1 L),21.89
+2002,nafta (1 L),21.55
+2003,nafta (1 L),21.10
+2004,nafta (1 L),25.73
+2005,nafta (1 L),28.20
+2006,nafta (1 L),27.87
+2007,nafta (1 L),32.03
+2008,nafta (1 L),26.07
+2009,nafta (1 L),26.96
+2010,nafta (1 L),32.01
+2011,nafta (1 L),35.58
+2012,nafta (1 L),35.82
+2013,nafta (1 L),36.49
+2014,nafta (1 L),34.41
+2015,nafta (1 L),28.71
+2016,nafta (1 L),29.40
+2017,nafta (1 L),29.69
+2018,nafta (1 L),32.45
+2019,nafta (1 L),31.63
+2020,nafta (1 L),27.53
+2021,nafta (1 L),35.38
