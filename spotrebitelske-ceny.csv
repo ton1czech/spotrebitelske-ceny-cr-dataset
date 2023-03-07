@@ -21,6 +21,7 @@ rok,produkt,cena
 2019,světlé pivo lahvové (0.5 L),12.02
 2020,světlé pivo lahvové (0.5 L),11.53
 2021,světlé pivo lahvové (0.5 L),10.93
+2022,světlé pivo lahvové (0.5 L),11.24
 2000,marlboro (1 krabička),49.96
 2001,marlboro (1 krabička),52.39
 2002,marlboro (1 krabička),53.00
@@ -43,6 +44,7 @@ rok,produkt,cena
 2019,marlboro (1 krabička),106.00
 2020,marlboro (1 krabička),121.90
 2021,marlboro (1 krabička),134.00
+2022,marlboro (1 krabička),145.00
 2000,benzin natural 95 (1 L),28.90
 2001,benzin natural 95 (1 L),24.44
 2002,benzin natural 95 (1 L),24.67
@@ -65,6 +67,7 @@ rok,produkt,cena
 2019,benzin natural 95 (1 L),31.76
 2020,benzin natural 95 (1 L),27.93
 2021,benzin natural 95 (1 L),36.33
+2022,benzin natural 95 (1 L),42.48
 2000,nafta (1 L),26.67
 2001,nafta (1 L),21.89
 2002,nafta (1 L),21.55
@@ -87,6 +90,7 @@ rok,produkt,cena
 2019,nafta (1 L),31.63
 2020,nafta (1 L),27.53
 2021,nafta (1 L),35.38
+2022,nafta (1 L),43.21
 2000,brambory (1 KG),7.02
 2001,brambory (1 KG),9.12
 2002,brambory (1 KG),8.01
@@ -109,6 +113,7 @@ rok,produkt,cena
 2019,brambory (1 KG),19.46
 2020,brambory (1 KG),12.60
 2021,brambory (1 KG),13.67
+2022,brambory (1 KG),16.36
 2000,máslo (1 KG),91.00
 2001,máslo (1 KG),99.96
 2002,máslo (1 KG),98.94
@@ -131,6 +136,7 @@ rok,produkt,cena
 2019,máslo (1 KG),174.96
 2020,máslo (1 KG),151.91
 2021,máslo (1 KG),168.87
+2022,máslo (1 KG),213.58
 2000,řidičský kurz (skupina B),6025.57
 2001,řidičský kurz (skupina B),6430.30
 2002,řidičský kurz (skupina B),6474.08
@@ -153,3 +159,4 @@ rok,produkt,cena
 2019,řidičský kurz (skupina B),10679.15
 2020,řidičský kurz (skupina B),12126.76
 2021,řidičský kurz (skupina B),15156.44
+2022,řidičský kurz (skupina B),18482.44
